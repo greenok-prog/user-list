@@ -1,3 +1,6 @@
-{
-  users:[]
-}
+[
+  {
+    "name":"Artyom",
+    "firstname":"frizen"
+  }
+]
