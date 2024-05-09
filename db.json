@@ -1,6 +1,9 @@
 [
   {
-    "name":"Artyom",
-    "firstname":"frizen"
+    "id": 1,
+    "name": "Artyom",
+    "firstname": "frizen",
+    "skills": ["test1", "test2"],
+    "email": "artem@gmail.com"
   }
 ]
