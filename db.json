@@ -71,6 +71,18 @@
       ],
       "email": "test@gmail.com",
       "created": "10.05.2024"
+    },
+    {
+      "id": "58cf",
+      "name": "Имя",
+      "firstname": "Фамилия",
+      "skills": [
+        "react",
+        "vue",
+        "redux"
+      ],
+      "email": "feniks2213@gmail.com",
+      "created": "11.05.2024"
     }
   ]
 }
